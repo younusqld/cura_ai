@@ -1,0 +1,51 @@
+Disease,Medicine,Category,Priority,Precautions,Description
+Common Cold,Cheston Cold / Sinarest,Anti-Cold,1,May cause drowsiness. Do not drive. Drink warm fluids.,"Relieves runny nose, sneezing, and congestion."
+Common Cold,Crocin Advance,Antipyretic,2,Take after food. Avoid if liver issues exist.,Relieves mild fever and body ache.
+Influenza (Flu),Fluvir (Oseltamivir),Antiviral,1,Complete the full 5-day course. Isolate to prevent spreading.,Specific antiviral for influenza.
+Influenza (Flu),Dolo 650,Antipyretic/Analgesic,2,Max 4 tablets a day. Keep 6 hour gap.,Effectively manages high fever and body pains.
+COVID-19,Paracetamol (Dolo 650),Antipyretic,1,Monitor SpO2 levels. Isolate strictly.,First line for fever management.
+COVID-19,Azithral 500,Antibiotic,2,Use only if prescribed for secondary bacterial infection.,Macrolide antibiotic.
+Malaria,Lariago (Chloroquine),Antimalarial,1,Complete full course. Take after meals to avoid nausea.,Primary antimalarial drug.
+Malaria,Calpol 500,Antipyretic,2,Use for fever spikes.,Manages malarial fever.
+Dengue,Dolo 650,Antipyretic,1,STRICTLY AVOID Ibuprofen/Aspirin due to bleeding risk.,Safest option for dengue fever.
+Dengue,Electral Powder (ORS),Fluid Replacement,2,Drink 3-4 liters of fluids daily. Monitor platelet count.,Prevents severe dehydration common in dengue.
+Typhoid,Taxim-O 200,Antibiotic,1,"Complete 7-14 day course. Eat bland, easily digestible food.",Treats the Salmonella typhi infection.
+Typhoid,Crocin,Antipyretic,2,Take as needed for fever.,Reduces fever.
+Migraine,Vasograin / Migranil,Anti-migraine,1,"Take at the onset of aura/pain. Rest in a dark, quiet room.",Specifically formulated for severe migraines.
+Gastroenteritis,O2 Tablet (Ofloxacin & Ornidazole),Antibiotic/Antiamoebic,1,Take after food. Avoid dairy products for a few days.,Treats stomach infections.
+Gastroenteritis,Eldoper (Loperamide),Antidiarrheal,2,Do not use if there is blood in stool. Ensure high fluid intake.,Stops severe diarrhea.
+Acne Vulgaris,Clindac A Gel,Topical Antibacterial,1,Apply only to affected areas at night. Use sunscreen during the day.,Reduces acne-causing bacteria.
+Acne Vulgaris,Saslic DS Wash,Face Wash,2,May cause dryness. Use a non-comedogenic moisturizer.,Salicylic acid wash to unclog pores.
+Allergic Rhinitis,Allegra 120 (Fexofenadine),Antihistamine,1,Non-drowsy formulation. Avoid exposure to known allergens.,Provides relief from allergies without drowsiness.
+Allergic Rhinitis,Montair LC,Antihistamine + Leukotriene,2,Best taken at night.,Effective for severe allergies and asthma prevention.
+Asthma,Asthalin Inhaler,Bronchodilator,1,Keep inhaler accessible at all times. Rinse mouth after use.,Rescue inhaler for acute attacks.
+Anemia,Dexorange / Orofer XT,Hematinic Supplement,1,"Take with Vitamin C (e.g., lime juice) for better absorption. Stools may turn dark.",Iron and folic acid supplement.
+Diabetes Type 2,Glycomet 500 (Metformin),Antidiabetic,1,Take during or immediately after meals. Monitor blood sugar regularly.,First-line medication for Type 2 Diabetes.
+Hypertension,Amlokind 5 / Telmikind 40,Antihypertensive,1,Take at the same time daily. Reduce salt intake.,Controls high blood pressure.
+Acid Reflux (GERD),Pan 40 / Pantocid,Proton Pump Inhibitor,1,"Take empty stomach, 30 mins before breakfast. Avoid spicy/oily food.",Reduces stomach acid production.
+Acid Reflux (GERD),Digene / Gelusil Syrup,Antacid,2,Take after meals for immediate relief.,Neutralizes existing stomach acid.
+Fungal Infection,Candid Cream (Clotrimazole),Antifungal,1,Keep affected area dry. Apply for 1 week after symptoms resolve.,Topical cream for skin infections.
+Fungal Infection,Fluconazole 150mg,Oral Antifungal,2,Usually a single dose. Consult doctor for recurring issues.,Oral treatment for severe fungal infections.
+Chickenpox,Calamine Lotion,Soothing Agent,1,Do not scratch blisters to avoid scarring. Isolate patient.,Relieves severe itching.
+Chickenpox,Paracetamol,Antipyretic,2,Avoid Aspirin completely in viral fevers.,Reduces associated fever.
+Tuberculosis,AKT-4 / DOTS Therapy,Anti-tubercular,1,CRITICAL: Do not stop medication early. Treatment takes 6-9 months. Urine may turn red/orange.,Combination antibiotic therapy for TB.
+Pneumonia,Augmentin 625 Duo,Antibiotic,1,Complete full 7 day course. Get plenty of rest.,Broad spectrum antibiotic for lung infections.
+Urinary Tract Infection (UTI),Norflox TZ / Urifast,Antibiotic,1,Drink plenty of water and cranberry juice. Maintain hygiene.,Clears urinary tract infections.
+Urinary Tract Infection (UTI),Citalka Liquid,Urine Alkalizer,2,Mix 2 spoons in a glass of water. Take after meals.,Reduces burning sensation while urinating.
+Peptic Ulcer,Omee / Razo 20,PPI,1,"Avoid smoking, alcohol, and NSAIDs like Ibuprofen.",Heals stomach lining.
+Arthritis,Zerodol-SP,NSAID/Muscle Relaxant,1,Take after food to avoid gastric irritation.,Reduces joint pain and inflammation.
+Arthritis,Volini Gel / Moov,Topical Analgesic,2,Apply locally. Do not apply on open wounds.,Instant local pain relief.
+Conjunctivitis,Ciplox Eye Drops,Antibiotic Drops,1,Do not touch dropper tip to eye. Wash hands frequently.,Clears bacterial eye infections.
+Hypothyroidism,Thyronorm,Hormone Replacement,1,Take strictly on an empty stomach early morning. Wait 45 mins before eating.,Synthetic thyroid hormone.
+Cervical Spondylosis,Myoril 4mg,Muscle Relaxant,1,Maintain proper neck posture. Do neck exercises.,Relieves muscle spasms in the neck.
+Heart Attack,Disprin (Aspirin 325mg),Antiplatelet,1,EMERGENCY: Chew tablet immediately and seek urgent medical help.,Thins blood during a suspected heart attack.
+Heart Attack,Sorbitrate 5mg,Nitrate,2,Place under the tongue. Seek emergency care.,Relieves severe chest pain temporarily.
+Appendicitis,Emergency Hospitalization,Surgical Emergency,1,"CRITICAL: Do NOT take laxatives, enemas, or pain meds as they can mask symptoms or rupture the appendix. Go to the ER.",Requires immediate surgical evaluation.
+Food Poisoning,Electral Powder (ORS),Fluid Replacement,1,Drink plenty of water to avoid dehydration.,Replenishes lost fluids and electrolytes.
+Food Poisoning,Emeset 4mg (Ondansetron),Anti-emetic,2,Take if vomiting is severe.,Prevents severe nausea and vomiting.
+Tonsillitis,Azithral 500,Antibiotic,1,Complete the 3-5 day course. Do warm saline gargles.,Clears bacterial throat infections.
+Tonsillitis,Betadine Gargle,Antiseptic Solution,2,Do not swallow. Gargle 3-4 times a day.,Soothes throat and kills local bacteria.
+Insomnia,Melatonin 3mg,Sleep Aid Supplement,1,Take 30-60 mins before bedtime. Avoid screen time.,Natural hormone supplement to regulate sleep cycle.
+Insomnia,Sleep Hygiene Routine,Behavioral Therapy,2,Avoid caffeine and heavy meals late at night.,"Maintain a cool, dark room and strict sleep schedule."
+Eczema,Cortiderm (Hydrocortisone 1%),Topical Corticosteroid,1,Apply thin layer to affected area twice daily. Do not use for more than 2 weeks without consulting a doctor.,Reduces severe skin inflammation and itching.
+Eczema,Cetaphil Restoraderm / Emollients,Moisturizer,2,Apply generously immediately after bathing to lock in moisture.,Repairs skin barrier and prevents dryness.
